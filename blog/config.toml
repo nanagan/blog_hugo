@@ -1,0 +1,17 @@
+baseURL = "https://coding-pages-bucket-3526604-8376671-13319-504823-1258982242.cos-website.ap-hongkong.myqcloud.com/"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = true
+title = "Nana's Blog"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/nanagan/"},
+      {Name = "About", URL = "https://github.com/nanagan/blog/about"},
+  ]
+[params]
+  description = "An intern in Tencent"
+
+disqusShortname = "spf13"
